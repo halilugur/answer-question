@@ -1,7 +1,9 @@
 # answer-question
 
 **Screenshot AI Answer Tool**  
-A desktop application that captures any part of your screen and provides AI-powered answers using either **OpenAI’s GPT-4 Vision** or **local Ollama** models.
+A desktop application that captures any part of your screen and provides AI-powered answers using either **OpenAI's GPT-4 Vision** or **local Ollama** models.
+
+![Application Interface](docs/image.png)
 
 ---
 
